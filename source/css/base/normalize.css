@@ -428,6 +428,7 @@ th {
   overflow-x: auto;
   padding: 0.5em;
   color: #abb2bf;
+  background-color: unset;
 }
 
 .hljs-comment,
